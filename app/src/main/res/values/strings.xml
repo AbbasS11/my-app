@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">afterweb</string>
+    <string name="email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">userName</string>
+    <string name="type">Type...</string>
+    <string name="user_name">User name</string>
+    <string name="profile">Profile</string>
+    <string name="firstTab">Chats</string>
+    <string name="secondTab">Users</string>
+    <string name="thirdTab">My Profile</string>
+</resources>
